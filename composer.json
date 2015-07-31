@@ -1,0 +1,23 @@
+{
+    "name": "dev4living/leanCloudSMS4PHP",
+    "description": "leanCloud SMS PHP SDK",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rod",
+            "email": "supgeek.rod@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-0": {
+            "Dev4living\\LeanCloudSMS": "src/"
+        },
+        "files": [
+        ]
+    },
+}
